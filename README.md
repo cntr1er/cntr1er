@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cntr1er&label=Profile%20views&color=0e75b6&style=flat" alt="cntr1er" /> </p>
 
+### What kind of things I develop 💻
+- 🤖 Discord Bots
+- 📜 Roblox scripts
+- 🐺 Basic day to day python scripts
 
 ### My specialty languages 🦾
 
