@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cntr1er&label=Profile%20views&color=0e75b6&style=flat" alt="cntr1er" /> </p>
 
+
+### My specialty languages 🦾
+
+- Proficient at Python (Currently learning)
+
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/cntr1er" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cntr1er" height="30" width="40" /></a>
@@ -16,6 +22,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cntr1er&size_weight=0.5&count_weight=0.5&theme=apprentice)
 
-### My specialty languages 🦾
 
-- Proficient at Python (Currently learning)
