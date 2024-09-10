@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cntr1er&label=Profile%20views&color=0e75b6&style=flat" alt="cntr1er" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=apprentice"><img src="https://github-profile-trophy.vercel.app/?username=cntr1er" alt="cntr1er" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/cntr1er" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cntr1er" height="30" width="40" /></a>
