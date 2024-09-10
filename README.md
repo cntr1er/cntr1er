@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="[image-url-here](https://i.pinimg.com/564x/94/b9/f2/94b9f249db2341d4a5b9dda9a066554b.jpg)" />
+ <img src="https://i.pinimg.com/564x/94/b9/f2/94b9f249db2341d4a5b9dda9a066554b.jpg" />
 </h1>
 
 <h1 align="center">Hi 👋, I'm cntrler</h1>
