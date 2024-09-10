@@ -1,3 +1,10 @@
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://i.pinimg.com/564x/94/b9/f2/94b9f249db2341d4a5b9dda9a066554b.jpg" alt=”my banner”>
+
+</p>
+
+
 <h1 align="center">Hi 👋, I'm cntrler</h1>
 <h3 align="center">A Passionate Cyber Security Student from Iraq</h3>
 
