@@ -15,3 +15,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cntr1er&show_icons=true&theme=apprentice)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cntr1er&size_weight=0.5&count_weight=0.5&theme=apprentice)
+
+### My specialty languages 🦾
+
+- Proficient at Python (Currently learning)
