@@ -9,11 +9,12 @@
 
 ### What kind of things I develop 💻
 - 🤖 Discord Bots
-- 🐺 Basic day to day python scripts
+- 🤖 Discord Self Bots
+- 🤖 Discord Nukers
 
-### My specialty languages 🦾
+### My specialty
 
-- Proficient at Python (Currently learning)
+- Proficient at discord.py making self bots and normal bots with it.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
